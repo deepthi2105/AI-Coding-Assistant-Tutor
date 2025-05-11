@@ -1,0 +1,12 @@
+[
+    {
+        "instruction": "Write a Python function to reverse a string.",
+        "input": "",
+        "output": "def reverse_string(s):\n    return s[::-1]"
+    },
+    {
+        "instruction": "Explain how to use for loop in Python.",
+        "input": "",
+        "output": "A for loop in Python is used for iterating over a sequence.\nExample:\nfor i in range(5):\n    print(i)"
+    }
+]
