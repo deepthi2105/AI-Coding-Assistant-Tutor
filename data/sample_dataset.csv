@@ -1,0 +1,4 @@
+instruction,response
+"Write a Python function to reverse a string.","def reverse_string(s):\n    return s[::-1]"
+"Explain how to use a for loop in Python.","for i in range(5):\n    print(i)"
+"Write code to check if a number is even.","def is_even(n):\n    return n % 2 == 0"
