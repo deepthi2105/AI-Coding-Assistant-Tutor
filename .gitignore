@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyTorch and Transformers caches
+*.pt
+*.bin
+*.ckpt
+*.h5
+*.pth
+*.onnx
+*.tflite
+
+# Dataset or model checkpoints
+checkpoint/
+logs/
+results/
+runs/
+model/
+
+# Local .env or keys
+.env
+*.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code and IDE settings
+.vscode/
+.idea/
+
+# Hugging Face specific
+*.lock
+hub/
